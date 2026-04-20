@@ -160,8 +160,8 @@ function App() {
               <h3>Free Resources Website</h3>
               <p>A website that provides free resources like icons, images, and tools useful for developers and students.</p>
               <div className="project-buttons">
-                <a href="#" className="btn">View Project</a>
-                <a href="#" className="btn">Source Code</a>
+                <a href="" className="btn">View Project</a>
+                <a href="" className="btn">Source Code</a>
               </div>
             </div>
           </div>
