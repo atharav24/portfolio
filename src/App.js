@@ -160,8 +160,8 @@ function App() {
               <h3>Free Resources Website</h3>
               <p>A website that provides free resources like icons, images, and tools useful for developers and students.</p>
               <div className="project-buttons">
-                <a href="" className="btn">View Project</a>
-                <a href="" className="btn">Source Code</a>
+                <a href="https://github.com/atharav24/free-resources-website" className="btn">View Project</a>
+                <a href="https://github.com/atharav24/free-resources-website.git" className="btn">Source Code</a>
               </div>
             </div>
           </div>
@@ -173,8 +173,8 @@ function App() {
               <h3>Text to Speech Generator</h3>
               <p>A Python + Flask based app that converts text into natural-sounding speech.</p>
               <div className="project-buttons">
-                <a href="#" className="btn">View Project</a>
-                <a href="#" className="btn">Source Code</a>
+                <a href="https://github.com/atharav24/TTS-Converter" className="btn">View Project</a>
+                <a href="https://github.com/atharav24/TTS-Converter.git" className="btn">Source Code</a>
               </div>
             </div>
           </div>
